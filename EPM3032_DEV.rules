@@ -11,7 +11,7 @@
     (via_costs 50)
     (plane_via_costs 5)
     (start_ripup_costs 100)
-    (start_pass_no 1039)
+    (start_pass_no 1389)
     (layer_rule F.Cu
       (active on)
       (preferred_direction vertical)
@@ -54,10 +54,10 @@
   )
   (class default
     VCC GND /TCK /TDO /TMS "unconnected-(J1-Pad6)" "unconnected-(J1-Pad7)" "unconnected-(J1-Pad8)"
-    /TDI /P1 /P2 /P4 /P5 /P6 /P8 /P9
-    /P11 /P12 /P14 /P16 /P18 /P19 /P20 /P21
-    /P44 /P43 /P41 /P40 /P39 /P37 /P34 /P33
-    /P31 /P29 /P28 /P27 /P26 /P25 /P24
+    /TDI /P2 /P5 /P6 /P8 /P12 /P14 /P18
+    /P19 /P20 /P21 /P44 /P43 /P40 /P39 /P37
+    /P34 /P33 /P31 /P28 /P27 /P25 /P3 /P10
+    /P13 /P15 /P22 /P42 /P38 /P35 /P23
     (clearance_class default)
     (via_rule default)
     (rule
